@@ -1,0 +1,8 @@
+#Como criar um repositório no Github
+É necessário ter instalado o **GIT** no computador. Vamos usar também o **Github Desktop** para facilitar.
+
+## Passo a passo
+Supondo que você já tem um projeto criado, faça o seguinte:
+- Abrir o CMD dentro da pasta e digitar o comando ```git init```
+- Ir no Github Desktop e escolher a opção ```Add existing repository``` e selecionar a psta do projeto
+- Por fim, fazer o comit e publicar. **Atenção:** lembrar de deixar smepre público
