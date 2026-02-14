@@ -1,4 +1,4 @@
-#Como criar um repositório no Github#
+# Como criar um repositório no Github
 É necessário ter instalado o **GIT** no computador. Vamos usar também o **Github Desktop** para facilitar.
 
 ## Passo a passo ##
